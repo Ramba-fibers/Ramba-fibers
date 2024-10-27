@@ -17,5 +17,5 @@ The **3D Fila Device** is an advanced filament production machine designed to cr
 ## Technologies Used
 The 3D Fila Device integrates several proprietary technologies:
 - **Precision Nozzle Control**: Enables exact filament extrusion for consistent quality.
-- **Material Sensing**: Automatically adjusts settings based on the input material, ensuring optimal performance.
+- **Material Sensing**: Automatically adjusts settings based on the input material and ensuring optimal performance.
 - **Smart Winding System**: Ensures filament is wound without tangling, enhancing usability.
