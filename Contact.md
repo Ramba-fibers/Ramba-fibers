@@ -6,5 +6,5 @@ Interested in learning more about the 3D Fila Device or collaborating with RAMBA
 - **Phone**: +250 724 332 508
 
 ## Call to Action
-- **Investors**: Download our pitch deck [assets/pitchdeck.pptx].
+- **Investors**: Download our pitch deck [assets/Ramba fibers.pptx].
 - **Clients**: Schedule a demo or request a sample filament through our email.
